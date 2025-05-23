@@ -6,11 +6,11 @@ This game was made for my YouTube channel which focuses on development for moder
 
 If you enjoyed this game, please check out my channel and perhaps watch the video detailing its development:
 
-[Youtube - Modern Retro Dev](www.youtube.com/@modernretrodev)
+https://youtube.com/@modernretrodev
 
 This game is provided free (as in beer), enjoy!
 
-![screenshot](/images/gameplay.png)
+![](images/gameplay.png)
 
 ## How to Play
 You must fill in the missing numbers of the puzzle such that each 4x4 box contains numbers 1 thru 4. Additionally, each 4-cell row must also contain numbers 1 thru 4. Similarly, each 4-cell column must contain numbers 1 thru 4.
